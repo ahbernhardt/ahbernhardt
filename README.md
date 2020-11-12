@@ -3,7 +3,7 @@ I'm Anh, a passionate web developer focusing on the frontend. I enjoy designing,
 My goal is to always build products that provide pixel-perfect, responsive design, and performant experiences.
 
 - 🔭  I’m currently working on [Poncho.club](https://poncho.club) website.
-- 📗  I'm planning to use [Vuejs](https://vuejs.org/) and [Angular](https://angular.io/) for next coming projects.
+- 📗  I'm planning to use [Vuejs](https://vuejs.org/) and [Angular](https://angular.io/) for upcoming projects.
 - 💻 Some of my projects: [Pomodoro Clock](https://anguyen0208.github.io/pomodoro-clock/), [Drum machine](https://anguyen0208.github.io/fcc-drum-machine/), [Financial Calculator](https://github.com/anguyen0208/Financial-Calculator-V2).
 - 📫 How to reach me: [Email](mailto:a.nguyen0208@gmail.com) or [LinkedIn](https://www.linkedin.com/in/anhnguyen0208/)
 <!--
