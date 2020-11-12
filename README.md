@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Anh, a passionate web developer focusing on the frontend. I enjoy designing, writing code, and creating things that live on the internet.
+I'm Anh, a passionate web developer focusing on the frontend development and design. 
 My goal is to always build products that provide pixel-perfect, responsive design, and performant experiences.
 
 - 🔭  I’m currently working on [Poncho.club](https://poncho.club) website.
