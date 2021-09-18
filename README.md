@@ -1,16 +1,20 @@
-### Hi there 👋
-I'm Anh, a passionate web developer focusing on the frontend development and design. 
-My goal is to always build products that provide pixel-perfect, responsive design, and performant experiences.
+### Hi or Xin Chào 👋
+- 📛  My name is Anh. 
+- 📍  I am from Ho Chi Minh - Vietnam, and currently live in Minneapolis - Minnesota.
+- 👀  I’m interested in web developer focusing on the frontend and design. 
+- 🌱  My goal is to always build products that provide pixel-perfect, responsive design, and performant experiences.
+- 💻  Some of my projects: [Personal Website](https://anhnguyen.page/), [Poncho.club](https://poncho.club)
+- 📫  How to reach me: [Email](mailto:anhbernhardt@gmail.com) or [LinkedIn](https://www.linkedin.com/in/anhbernhardt/)
 
-- 🔭  I’m currently working on [Loan Calculation](https://anguyen0208.github.io/Loan-Calculator/) website .
-- 📗  I'm planning to use [Vuejs](https://vuejs.org/) and [Angular](https://angular.io/) for upcoming projects.
-- 💻  Some of my projects: [Personal Website](https://anhnguyen.page/), [Poncho.club](https://poncho.club), [Pomodoro Clock](https://anguyen0208.github.io/Pomodoro-Clock/), [Drum machine](https://anguyen0208.github.io/drum-machine/), [Financial Calculator](https://github.com/anguyen0208/Financial-Calculator-V2).
-- 📫  How to reach me: [Email](mailto:a.nguyen0208@gmail.com) or [LinkedIn](https://www.linkedin.com/in/anhnguyen0208/)
-<!--
-**anguyen0208/anguyen0208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡ Fun fact:
+  - ⛺ I have been visiting 8 countries, 18 states, and 8 national parks.
+  - 🧱 One of my bucket list is to visit LEGO House in Billund, Denmark.
 
+<!---
+abern94/abern94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
 Here are some ideas to get you started:
-
+- 🪴 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -19,4 +23,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+- 👋 Hi, I’m @abern94
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+--->
