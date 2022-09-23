@@ -3,7 +3,6 @@
 - 📍  I am from Ho Chi Minh - Vietnam, and currently live in Minneapolis - Minnesota.
 - 👀  I’m interested in web developer focusing on the frontend and design. 
 - 🌱  My goal is to always build products that provide pixel-perfect, responsive design, and performant experiences.
-- 💻  Some of my projects: [Personal Website](https://anhnguyen.page/), [Poncho.club](https://poncho.club)
 - 📫  How to reach me: [Email](mailto:anhbernhardt@gmail.com) or [LinkedIn](https://www.linkedin.com/in/anhbernhardt/)
 
 - ⚡ Fun fact:
