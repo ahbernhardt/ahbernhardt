@@ -1,8 +1,9 @@
 ### Hi or Xin Chào 👋
 - 📛  My name is Anh. 
 - 📍  I am from Ho Chi Minh - Vietnam, and currently live in Minneapolis - Minnesota.
-- 👀  I’m interested in web developer focusing on the frontend and design. 
+- 👀  I enjoy creating things that live on the internet.
 - 🌱  My goal is to always build products that provide pixel-perfect, responsive design, and performant experiences.
+- 🎯  My main focus these days is building accessible, inclusive products, digital experiences and mirgating multiple web pages into NextJS for the Minnesota Timberwolves and Lynx.
 - 📫  How to reach me: [Email](mailto:anhbernhardt@gmail.com) or [LinkedIn](https://www.linkedin.com/in/anhbernhardt/)
 
 - ⚡ Fun fact:
