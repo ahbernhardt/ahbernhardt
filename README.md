@@ -7,7 +7,7 @@
 - 📫  How to reach me: [anhbernhardt@gmail.com](mailto:anhbernhardt@gmail.com) or [LinkedIn](https://www.linkedin.com/in/anhbernhardt/)
 
 - ⚡ Fun fact:
-  - ⛺ I have been visiting 8 countries, 18 states, and 8 national parks.
+  - ⛺ I have been visiting 9 countries, 20 states, and 11 national parks.
   - 🧱 One of my bucket list is to visit LEGO House in Billund, Denmark.
 
 <!---
