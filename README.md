@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact:
   - ⛺ I have been visiting 9 countries, 20 states, and 11 national parks.
-  - 🧱 One of my bucket list is to visit LEGO House in Billund, Denmark.
+  - 🪣 One of my bucket list is to visit LEGO House in Billund, Denmark.
 
 <!---
 abern94/abern94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
