@@ -4,7 +4,7 @@
 - 👀  I enjoy creating things that live on the internet.
 - 🌱  My goal is to always build products that provide pixel-perfect, responsive design, and performant experiences.
 - 🎯  My main focus these days is building accessible, inclusive products, digital experiences and mirgating multiple web pages into NextJS for the Minnesota Timberwolves and Lynx.
-- 📫  How to reach me: [Email](mailto:anhbernhardt@gmail.com) or [LinkedIn](https://www.linkedin.com/in/anhbernhardt/)
+- 📫  How to reach me: [anhbernhardt@gmail.com](mailto:anhbernhardt@gmail.com) or [LinkedIn](https://www.linkedin.com/in/anhbernhardt/)
 
 - ⚡ Fun fact:
   - ⛺ I have been visiting 8 countries, 18 states, and 8 national parks.
