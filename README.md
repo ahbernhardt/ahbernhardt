@@ -30,7 +30,7 @@
 <p align="left">
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.airtable.com/" target="_blank" rel="noreferrer"><img src="https://www.cdnlogo.com/logos/a/28/airtable.svg" width="36" height="36" alt="Airtable" /></a>
+<a href="https://www.airtable.com/" target="_blank" rel="noreferrer"><img src="https://www.cdnlogo.com/logos/a/28/airtable.svg" width="36" height="36" alt="Airtable"/></a>
 </p>
 <p align="left">
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="36" height="36" alt="Illustrator" /></a>
